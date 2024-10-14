@@ -7,6 +7,7 @@ url: https://logaaaa.github.io
 aux_links:
   aboutME: https://www.instagram.com/logaaaaaaaaaa
 
+# Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
 # Color scheme supports "light" (default) and "dark"
