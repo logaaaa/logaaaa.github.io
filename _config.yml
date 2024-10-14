@@ -5,4 +5,10 @@ theme: just-the-docs
 url: https://logaaaa.github.io
 
 aux_links:
-  Template Repository: https://www.instagram.com/logaaaaaaaaaa
+  aboutME: https://www.instagram.com/logaaaaaaaaaa
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
