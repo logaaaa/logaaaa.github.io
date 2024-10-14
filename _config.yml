@@ -41,7 +41,7 @@ search:
   button: false
 
 # Enable or disable heading anchors
-heading_anchors: true
+heading_anchors: false
 
 # Footer content
 # appears at the bottom of every page's main content
