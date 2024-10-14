@@ -2,8 +2,6 @@
 title: Alchemy 
 layout: default
 icon: fa-keyboard-o
-parent: docs
-nav_order: 320980
 ---
 
 # Alchemy 
