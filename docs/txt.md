@@ -2,7 +2,7 @@
 title: Alchemy 
 layout: default
 icon: fa-keyboard-o
-parent: DSA Keycaps
+parent: docs
 nav_order: 320980
 ---
 
